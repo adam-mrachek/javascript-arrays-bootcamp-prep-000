@@ -9,3 +9,5 @@ function destructivelyAddElementToBeginningOfArray(arr, el) {
 }
 
 var array = [1, 2, 3, 4, 5];
+
+addElementToBeginningOfArray(array, 7);
